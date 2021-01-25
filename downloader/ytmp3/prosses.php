@@ -16,12 +16,10 @@ if (isset($_GET['type']))
 
             # parsing variabel $data ke dalam array
             $downloader = json_decode($data);
-            $judul = $downloader
-                ->result->textInfo;
-            if ($judul == null)
+            if ($downloader->result->textInfo == null)
             {
                 $title = "Video Not Found, Check your url!";
-                $thumbnail = "images/404-graphic.jpg";
+                $thumbnail = "../ytmp3/images/404-graphic.jpg";
                 $url = "#";
             }
             else
@@ -49,11 +47,10 @@ if (isset($_GET['type']))
 
             # parsing variabel $data ke dalam array
             $downloader = json_decode($data);
-            $judul = $downloader->titleInfo;
-            if ($judul == null)
+            if ($downloader->titleInfo == null)
             {
                 $title = "Video Not Found, Check your url!";
-                $thumbnail = "images/404-graphic.jpg";
+                $thumbnail = "../ytmp3/images/404-graphic.jpg";
                 $url = "#";
             }
             else
@@ -77,7 +74,7 @@ if (isset($_GET['type']))
     <meta name="description" content="PELL DOWNLOADER - TIKTOK NO WM, FACEBOOK, TWITTER, INSTAGRAM, YOUTUBE MP3 / MP4 DOWNLOADER" />
     <meta name="author" content="PELL DOWNLOADER">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="https://pell-tools.herokuapp.com/downloader/ico.png">
+    <link rel="icon" href="../ico.png">
 </head>
 <style>
     body
@@ -134,7 +131,7 @@ if (isset($_GET['type']))
         <img src="<?php echo $thumbnail;?>">
         <h2><?php echo $title;?></h2>
         <a href="<?php echo $url;?>">Download</a><br>
-        <a href="http://pell-tools.herokuapp.com/downloader/">Back</a>
+        <a href="../">Back</a>
     </div>
 
 </body>
