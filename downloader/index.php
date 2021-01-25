@@ -39,7 +39,7 @@
                         <li><a href="javascript: setURL(this.form,'https://www.youtube.com/watch?v=36lSzUMBJnc')">Youtube MP4</a></li>
                         <li><a href="javascript: setURL(this.form,'https://fb.watch/39qDuskS0u/')">Facebook</a></li>
                         <li><a href="javascript: setURL(this.form,'https://twitter.com/mar0221_/status/1352598464924798978?s=20')">Twitter</a></li>
-                        <li><a href="javascript: setURL(this.form,'http://vt.tiktok.com/rpyyyu/')">Tiktok</a></li>
+                        <li><a href="javascript: setURL(this.form,'https://vt.tiktok.com/ZS7RXQtq/')">Tiktok</a></li>
                     </ul>
                 </span>
                 <input  class="span3 form-control" type="text" name="url" placeholder="Webpage URL"/>
