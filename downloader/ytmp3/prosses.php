@@ -1,6 +1,43 @@
 <?php
 //ambil data json dari file
+if (isset($_GET['type']))
+{
+    $getdata = $_GET['type'];
+    if ($getdata == 'tiktok')
+    {
+        if (isset($_GET['link']))
+        {
+            $link = $_GET['link'];
 
+            $gabunglink = "https://arugaz.my.id/api/media/tiktok?url={$link}";
+
+            # ambil data json dari $alamatAPI
+            $data = file_get_contents($gabunglink);
+
+            # parsing variabel $data ke dalam array
+            $downloader = json_decode($data);
+            $judul = $downloader
+                ->result->textInfo;
+            if ($judul == null)
+            {
+                $title = "Video Not Found, Check your url!";
+                $thumbnail = "images/404-graphic.jpg";
+                $url = "#";
+            }
+            else
+            {
+                $title = $downloader
+                    ->result->textInfo;
+                $thumbnail = $downloader
+                    ->result->image;
+                $url = $downloader
+                    ->result->mp4direct;
+            }
+
+        }
+    }
+    else if ($getdata == 'ytmp3')
+    {
         if (isset($_GET['link']))
         {
             $link = $_GET['link'];
@@ -21,14 +58,17 @@
             }
             else
             {
-                $title = $downloader
-                    ->titleInfo;
-                $thumbnail = $downloader
-                    ->getImages;
-                $url = $downloader
-                    ->getAudio;
+                $title = $downloader->titleInfo;
+                $thumbnail = $downloader->getImages;
+                $url = $downloader->getAudio;
             }
         }
+    }
+    else
+    {
+        echo 'error woy';
+    }
+}
 ?>
 <!DOCTYPE html>
 <html>
