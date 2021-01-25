@@ -18,7 +18,7 @@
             <div class="input-select">
               <select data-trigger="" name="type">
                 <option value="ytmp4">Youtube MP3</option>
-                <option value="tiktok">Youtube MP3</option>
+                <option value="tiktok">Tiktok No WM</option>
               </select>
             </div>
           </div>
