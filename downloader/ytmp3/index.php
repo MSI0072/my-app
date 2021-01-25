@@ -23,7 +23,7 @@
             </div>
           </div>
           <div class="input-field second-wrap">
-            <input id="search" type="url" placeholder="https://www.youtube.com/watch?v=36lSzUMBJnc" name="link" required/>
+            <input id="search" type="url" placeholder="Enter Link" name="link" required/>
           </div>
           <div class="input-field third-wrap">
             <button class="btn-search" type="submit">
