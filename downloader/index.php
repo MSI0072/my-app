@@ -7,7 +7,7 @@
     <meta name="description" content="PELL DOWNLOADER - TIKTOK NO WM, FACEBOOK, TWITTER, INSTAGRAM, YOUTUBE MP3 / MP4 DOWNLOADER" />
     <meta name="author" content="PELL DOWNLOADER">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="https://pell-downloader.herokuapp.com/ico.png">
+    <link rel="icon" href="../ico.png">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link href="style.css" rel="stylesheet"/>
@@ -39,7 +39,7 @@
                         <li><a href="javascript: setURL(this.form,'https://www.youtube.com/watch?v=36lSzUMBJnc')">Youtube MP4</a></li>
                         <li><a href="javascript: setURL(this.form,'https://fb.watch/39qDuskS0u/')">Facebook</a></li>
                         <li><a href="javascript: setURL(this.form,'https://twitter.com/mar0221_/status/1352598464924798978?s=20')">Twitter</a></li>
-                        <li><a href="javascript: setURL(this.form,'https://vt.tiktok.com/ZS7RXQtq/')">Tiktok</a></li>
+                        <li><a href="ytmp3">Tiktok</a></li>
                     </ul>
                 </span>
                 <input  class="span3 form-control" type="text" name="url" placeholder="Webpage URL"/>
