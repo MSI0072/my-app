@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="description" content="PELL DOWNLOADER - TIKTOK NO WM, FACEBOOK, TWITTER, INSTAGRAM, YOUTUBE MP3 / MP4 DOWNLOADER" />
     <meta name="author" content="PELL DOWNLOADER">
-    <link rel="icon" href="https://pell-downloader.herokuapp.com/ico.png">
+    <link rel="icon" href="https://pell-tools.herokuapp.com.herokuapp.com/ico.png">
     <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" />
     <link href="css/main.css" rel="stylesheet" />
   </head>
