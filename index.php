@@ -164,6 +164,8 @@ p {
 	<br>
 	<a href="https://instagram.com/muhnovel._" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>My Instagram</span></a>
 	<br>
+	<a href="https://wa.me/6283106564027?text=#menu" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>Whatsapp Bot Sticker</span></a>
+	<br>
 	<a href="https://pastebin.com/C4iEzv0P" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>Donasi</span></a>
     </div>
   </div>
