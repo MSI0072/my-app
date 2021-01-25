@@ -77,7 +77,7 @@ if (isset($_GET['type']))
     <meta name="description" content="PELL DOWNLOADER - TIKTOK NO WM, FACEBOOK, TWITTER, INSTAGRAM, YOUTUBE MP3 / MP4 DOWNLOADER" />
     <meta name="author" content="PELL DOWNLOADER">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="https://pell-downloader.herokuapp.com/ico.png">
+    <link rel="icon" href="https://pell-tools.herokuapp.com/downloader/ico.png">
 </head>
 <style>
     body
