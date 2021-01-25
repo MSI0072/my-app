@@ -152,9 +152,15 @@ p {
         <h1>いたずらツール</h1>
 	<b>Prank Tool SNMPTN & SBMPTN</b>
 	<p>Follow My Instagram <a href="https://instagram.com/muhnovel._">@muhnovel._</a></p>
-        <a href="http://sbmptn-faker.herokuapp.com/SBMPTN/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SBMPTN</span></a>
+        <a href="http://pell-tools.herokuapp.com/SBMPTN/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SBMPTN</span></a>
         <br>
-        <a href="http://sbmptn-faker.herokuapp.com/SNMPTN/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SNMPTN</span></a>
+        <a href="http://pell-tools.herokuapp.com/SNMPTN/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SNMPTN</span></a>
+	<br>
+	<a href="http://pell-tools.herokuapp.com/downloader/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SOSMED-dl</span></a>
+        <br>
+        <a href="http://pell-tools.herokuapp.com/cek-jodoh/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>CEK JODOH</span></a>
+	<br>
+	<a href="http://pell-tools.herokuapp.com/film/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>FILM</span></a>
 	<br>
 	<a href="https://instagram.com/muhnovel._" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>My Instagram</span></a>
 	<br>
