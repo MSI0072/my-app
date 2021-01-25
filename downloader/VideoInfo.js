@@ -2,7 +2,7 @@
 // Allows to get the video of the url through the api_url (optional)
 function BaseVideoInfo(url, api_url) {
     this.url = url || 'null';
-    api_url = api_url || "https://pellbot.herokuapp.com/";
+    api_url = api_url || "https://pellbot.herokuapp.com";
     this.api_url = api_url + "/api/info";
 }
 
