@@ -94,7 +94,7 @@
         <img src="<?php echo $thumbnail;?>">
         <h2><?php echo $title;?></h2>
         <a href="<?php echo $url;?>">Download</a><br>
-        <a href="https://pell-downloader.herokuapp.com">Back</a>
+        <a href="http://pell-tools.herokuapp.com/downloader/">Back</a>
     </div>
 
 </body>
