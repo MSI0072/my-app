@@ -166,7 +166,7 @@ p {
 	<br>
 	<a href="../acak/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>ACAK</span></a>
 	<br>
-	<a href="../jam-imsak/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>JADWAL IMSAK</span></a>
+	<a href="../jam-imsak/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>JADWAL SHOLAT</span></a>
 	<br>
 	<a href="https://instagram.com/muhnovel._" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>My Instagram</span></a>
 	<br>
