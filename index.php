@@ -166,6 +166,8 @@ p {
 	<br>
 	<a href="../acak/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>ACAK</span></a>
 	<br>
+	<a href="../cekongkir/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>CEK ONGKIR</span></a>
+	<br>
 	<a href="https://instagram.com/muhnovel._" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>My Instagram</span></a>
 	<br>
 	<a href="https://wa.me/6283106564027?text=#menu" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>WA Bot Sticker</span></a>
