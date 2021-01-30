@@ -162,7 +162,9 @@ p {
 	<br>
 	<a href="../film/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>FILM</span></a>
 	<br>
-	<a href="../ddos/index.php" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>DDOS</span></a>
+	<a href="../ddos/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>DDOS</span></a>
+	<br>
+	<a href="../acak/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>ACAK</span></a>
 	<br>
 	<a href="https://instagram.com/muhnovel._" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>My Instagram</span></a>
 	<br>
