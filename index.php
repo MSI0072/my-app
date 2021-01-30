@@ -152,15 +152,17 @@ p {
         <h1>ようこそ</h1>
 	<b>PELL TOOLS</b>
 	<p>Follow My Instagram <a href="https://instagram.com/muhnovel._">@muhnovel._</a></p>
-        <a href="http://pell-tools.herokuapp.com/SBMPTN/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SBMPTN</span></a>
+        <a href="../SBMPTN/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SBMPTN</span></a>
         <br>
-        <a href="http://pell-tools.herokuapp.com/SNMPTN/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SNMPTN</span></a>
+        <a href="../SNMPTN/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SNMPTN</span></a>
 	<br>
-	<a href="http://pell-tools.herokuapp.com/downloader/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SOSMED-dl</span></a>
+	<a href="../downloader/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>SOSMED-dl</span></a>
         <br>
-        <a href="http://pell-tools.herokuapp.com/cek-jodoh/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>CEK JODOH</span></a>
+        <a href="../cek-jodoh/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>CEK JODOH</span></a>
 	<br>
-	<a href="http://pell-tools.herokuapp.com/film/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>FILM</span></a>
+	<a href="../film/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>FILM</span></a>
+	<br>
+	<a href="../ddos/index.php" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>DDOS</span></a>
 	<br>
 	<a href="https://instagram.com/muhnovel._" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>My Instagram</span></a>
 	<br>
