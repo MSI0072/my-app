@@ -26,7 +26,7 @@ $hari=['Monday'=>'Senin',"Tuesday"=>"Selasa",'Wednesday'=>'Rabu',"Thursday"=>"Ka
 	<body class="container" style="margin-top:50px">
 		<h1 class="text-center">Jam muslim</h1>
 		<br>
-		<form class="form-group" action="/" method="post">
+		<form class="form-group" action="../jam-imsak" method="post">
 			<label for="negara">Negara</label>
 			<input type="text" name="country" value="" placeholder="Negara..." class="form-control" id="negara">
 			<br>
