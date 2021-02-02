@@ -182,7 +182,7 @@ p {
 	<a href="../jam-imsak/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>JADWAL SHOLAT</span></a>
 	<br>
 	<a href="../danakaget/" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>DANA KAGET</span></a>
-	<br>danakaget    
+	<br>    
 	<a href="https://instagram.com/muhnovel._" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>My Instagram</span></a>
 	<br>
 	<a href="https://wa.me/6283106564027?text=#menu" class="btn effect04" data-sm-link-text="CLICK" target="_blank"><span>WA Bot Sticker</span></a>
